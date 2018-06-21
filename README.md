@@ -1,4 +1,4 @@
-# Calculating-Running-Moving-Average-in-Big-Query
+# Calculating-Moving-Average-in-Big-Query
 
 
 Sometimes you'll want to compute a running average over a selection of rows for the past N number of time periods. The running average is also called "moving average" or "rolling average".
